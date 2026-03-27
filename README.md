@@ -1,1 +1,1 @@
-# Dock Lift
+# Dock Lift CLI

@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Dock Lift")
+	fmt.Println("Dock Lift CLI")
 }
